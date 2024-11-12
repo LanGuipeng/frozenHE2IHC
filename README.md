@@ -4,7 +4,7 @@ We have developed an algorithm for predicting the immunohistochemical results of
 Deep pathological information-inferred histological staining for enhancing intraoperative diagnosis of breast diseases
 ---
 
-*This is the official code of HQFace, which is implemented by PyTorch.*
+*This is the official code, which is implemented by PyTorch.*
 
 **Background**
 
