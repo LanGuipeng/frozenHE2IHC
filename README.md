@@ -23,4 +23,4 @@ Deep pathological information-inferred histological staining for enhancing intra
     - [ ] Upload the PyTorch source 
     - [ ] Edit how to use code
 
-🔊 We will soon reveal codes and how to use thses!
+🔊 We will soon reveal codes and how to use these!
