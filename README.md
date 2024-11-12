@@ -16,6 +16,8 @@ Deep pathological information-inferred histological staining for enhancing intra
 
 >> There are the some results realized by our method.
 
+ <img src="https://github.com/LanGuipeng/frozenHE2IHC/blob/main/results.jpg" width="800">
+
 - [ ] **To do list**
     - [x] Presentation effect
     - [ ] Upload the PyTorch source 
